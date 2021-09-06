@@ -18,8 +18,7 @@ export const ListAndSearch = styled.div`
 
 export const SearchDiv = styled.div`
     width: 800px;
-    height: 
-    0px;
+    height: 60px;
     border: 1px solid #000;
     border-radius: 2px;
 
