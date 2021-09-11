@@ -32,7 +32,7 @@ npm install styled-components
 
 # Aqui você ira instalar uma biblioteca para consumir a API.
 
-npm install install axios
+npm install axios
 
 # Aqui você ira instalar uma biblioteca de componentes para o React, gerando mais agilidade.
 
